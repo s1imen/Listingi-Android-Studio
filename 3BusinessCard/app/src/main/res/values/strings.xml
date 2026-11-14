@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">3. Business Card</string>
+    <string name="name">Ростислав Торин</string>
+    <string name="profession">Android-разработчик</string>
+    <string name="phone">+7 900 123-45-67</string>
+    <string name="email">rostislav.torin@example.com</string>
+    <string name="city">г. Тверь</string>
+    <string name="avatar_description">Фото владельца визитки</string>
+    <string name="btn_save">Сохранить контакт</string>
+    <string name="msg_save">Контакт сохранен!</string>
+</resources>
