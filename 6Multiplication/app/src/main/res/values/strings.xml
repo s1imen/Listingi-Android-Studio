@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">6.Multiplication</string>
+    <string name="title">Таблица умножения</string>
+    <string name="hint_number">Число</string>
+    <string name="btn_table">Показать</string>
+    <string name="btn_all">Вся таблица</string>
+    <string name="btn_powers">Степени двойки</string>
+</resources>
