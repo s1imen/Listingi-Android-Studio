@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">8.Dice</string>
+    <string name="title">Игральные кубики</string>
+    <string name="btn_roll">Бросить</string>
+    <string name="dice_description">Кубик</string>
+    <string name="press_roll">Нажми Бросить</string>
+</resources>
