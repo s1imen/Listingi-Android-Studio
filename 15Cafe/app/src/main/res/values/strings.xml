@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">15. Cafe</string>
+    <string name="menu_title">Меню кафе</string>
+    <string name="menu_hint">Выбери блюдо, чтобы узнать подробности</string>
+    <string name="btn_order">Заказать</string>
+    <string name="btn_back">Назад к меню</string>
+</resources>
